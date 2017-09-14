@@ -1,5 +1,6 @@
 ################################################################################
-# 			Block addictive sites that steal your time during the workday!
+#                                  FOCUS
+#       Block addictive sites that steal your time during the workday!
 #
 # How to use?
 # Add the addictive sites in the 'dangerous' variable below and run at the
